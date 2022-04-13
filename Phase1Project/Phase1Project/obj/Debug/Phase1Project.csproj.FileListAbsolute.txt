@@ -1,0 +1,8 @@
+C:\Users\kaagrawal\source\repos\Phase1Project\Phase1Project\bin\Debug\Phase1Project.exe.config
+C:\Users\kaagrawal\source\repos\Phase1Project\Phase1Project\bin\Debug\Phase1Project.exe
+C:\Users\kaagrawal\source\repos\Phase1Project\Phase1Project\bin\Debug\Phase1Project.pdb
+C:\Users\kaagrawal\source\repos\Phase1Project\Phase1Project\obj\Debug\Phase1Project.csproj.AssemblyReference.cache
+C:\Users\kaagrawal\source\repos\Phase1Project\Phase1Project\obj\Debug\Phase1Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\kaagrawal\source\repos\Phase1Project\Phase1Project\obj\Debug\Phase1Project.csproj.CoreCompileInputs.cache
+C:\Users\kaagrawal\source\repos\Phase1Project\Phase1Project\obj\Debug\Phase1Project.exe
+C:\Users\kaagrawal\source\repos\Phase1Project\Phase1Project\obj\Debug\Phase1Project.pdb
